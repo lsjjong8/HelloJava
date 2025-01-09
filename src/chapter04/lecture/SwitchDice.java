@@ -1,4 +1,4 @@
-package chpater04.lecture;
+package chapter04.lecture;
 
 public class SwitchDice {
     public static void main(String[] args) {
